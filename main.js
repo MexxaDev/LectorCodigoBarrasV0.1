@@ -54,6 +54,3 @@ if(C5Cifras == MapleDeHuevos.PLU){
 if(C5Cifras == MilanesaDePollo.PLU){
     alert(CantidadArt + " " + MilanesaDePollo.Nombre + " "+ MilanesaDePollo.Precio);
 }
-else{
-    alert("Articulo no ingresado");
-}
